@@ -26,3 +26,5 @@
 2. python
 
 3. postgresql
+
+4. virtual box.
