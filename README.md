@@ -1,4 +1,4 @@
-# udacity_log_Analysis
+# log_Analysis_project
 
 ## Description
    This project is about extracting results from database using python script.
