@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-1. Download this repositary.
+1. Download this repository.
 
 2. Place Analysis.py file in shared vagrant folder.
 
